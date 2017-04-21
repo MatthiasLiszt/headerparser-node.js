@@ -1,0 +1,27 @@
+{
+  "name": "headerparser",
+  "version": "1.0.0",
+  "description": "a small headerparser web app with node.js",
+  "main": "headerparser.js",
+  "engines": { "node": "0.10.29", 
+               "npm" : "1.4.21"},
+  "dependencies": {
+    "path": "^0.12.7",
+    "ipware": "^1.0.0",
+    "ip": "^1.1.5",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node headerparser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatthiasLiszt/headerparser-node.js"
+  },
+  "author": "Matthias Liszt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthiasLiszt/headerparser-node.js/issues"
+  }
+}
