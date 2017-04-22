@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node headerparser.js"
+    "start": "node headerparser.js"
   },
   "repository": {
     "type": "git",
